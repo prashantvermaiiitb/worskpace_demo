@@ -5,8 +5,6 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "shared",
-    "client",
-    "server"
+    "packages/*"
   ]
 }

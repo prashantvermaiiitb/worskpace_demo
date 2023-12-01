@@ -20,3 +20,5 @@ should also be referring to using @<name-of-the-project>, otherwise
 > yarn install
 
 will not work properly and install the dependencies.
+
+Packages are installed at the top level always even if we try to put them inside child folders.
